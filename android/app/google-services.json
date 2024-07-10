@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "706134463439",
+    "firebase_url": "https://internship-project-f60b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "internship-project-f60b4",
+    "storage_bucket": "internship-project-f60b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706134463439:android:93bacafae6dce594d5b8ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4FeFYVxPuka4ZqS1xOdIDRcpKu4ZSqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706134463439:android:35eb41331b6218c9d5b8ba",
+        "android_client_info": {
+          "package_name": "com.example.your_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4FeFYVxPuka4ZqS1xOdIDRcpKu4ZSqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
